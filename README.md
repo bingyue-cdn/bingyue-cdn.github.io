@@ -1,2 +1,2 @@
-# bingyue-cdn-github.io
+# bingyue-cdn.github.io
 bingyue-cdn
