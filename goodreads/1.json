@@ -1,0 +1,1578 @@
+{
+    "data": {
+        "getReviews": {
+            "totalCount": 539,
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.Jialnu4MaGVb3joUReNUBA",
+                        "creator": {
+                            "id": 48381130,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1556209825i/48381130._UX200_CR0,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 166,
+                            "__typename": "User",
+                            "textReviewsCount": 165,
+                            "name": "Zeren",
+                            "webUrl": "https://www.goodreads.com/user/show/48381130-zeren",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.640643772254E12,
+                        "createdAt": 1.522697003972E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.522697028088E12,
+                        "text": "Muazzam bir serüvenden geçtim 15-20 gün boyunca. Bittiğinde içimdeki burukluk, aldığım edebi haz, yazara ve macerasına duyduğum hayranlık henüz dumanı üzerinde tüterken hemen yazmak istedim.<br /><br />Müthiş bir reenkarnasyon hikayesi Yaşam ve Ölüm Yorgunu. Mao Zedang’ın iktidara gelişiyle Çin’de düzen değişir. Toprak reformuyla toprak ağalarının ve tek elde toplanan zenginliğin sonu gelmiştir. Ama bütün devrimlerde olduğu gibi kurunun yanında yaş da yanar. Ximen Nao, Ximen Köyü’nün toprak ağası haksız yere infaz edilir. Ölüm tanrısı Yama, Ximen Nao’nun, haksız yere öldürüldüğü isyanlarına hak verince onu yeniden dünyaya göndermeye karar verir ama bir eşek olarak. Eşek, boğa, domuz, köpek, maymun ve en sonunda yeniden insan olarak tam altı kez reenkarne olan Ximen Nao’nun, bu yeni hayatları boyunca köydeki nesiller süren yaşam hikayelerinin gelişimlerine şahit oluruz. Sadece insanlar da değil, Çin’deki tüm toplumsal ve siyasal gelişimler de an be an önümüze serilir. Koskoca bir toplumun nereden nereye geldiğine şahit olmak, eskiden tu kaka edilenlerin baş tacı, baş tacı edilenlerin tu kaka oluşunun anlatılışı muazzamdır. <br /><br />Her reenkarnasyon hikayesinin sonunu tüylerim ürpererek tamamladım. İnsanın içindeki vahşeti çok başarılı bir şekilde anlatmış Mo Yan. İyi ile kötü arasındaki o muğlak çizgi romanda resmen başrol gibi. İyi dediğiniz birinin diğer hikayede nasıl isyan ettiği şeyleri yapan birine dönüştüğünü izlemek, tüm o insani zaaflarımız, çelişkilerimiz çok etkili anlatılmış. <br /><br />Romanın sonunda yazarın, bu romanı yazış serüveni ile, daha doğrusu kağıt-kalem kullanmayla bilgisayarda yazmak arasındaki farklar konusunda söyledikleriyse ayrı hoşuma gitti. Zira kendisi bu romanı sadece 43 günde ve elle yazıyor. Üstelik bunu yücelten bir tarafı da yok. O satırlar, tüm roman boyunca hissettiğim yazar samimiyeti hislerimi üçe beşe katladı. <br /><br />Çevirmen Erdem Kurtuldu üzerine de iki çift laf etmezsem olmaz. Orjinal dilden çeviriler her zaman çok kıymetli ama bunu Çince gibi bir dilden bu kadar başarılı yapmak ayakta alkışı hak ediyor. Dip notlar, açıklamalar, Çin tarihi ve edebiyatına bu hakimiyet muazzam. <br /><br />Okunmadık tek bir Mo Yan kalmayana kadar devam!",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/48381130?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/2330811929",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 23,
+                        "viewerHasLiked": false,
+                        "commentCount": 4
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.Q-qMoKHv55jqGA7FYht36Q",
+                        "creator": {
+                            "id": 64872550,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1620038145i/64872550._UX200_CR0,54,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 159,
+                            "__typename": "User",
+                            "textReviewsCount": 646,
+                            "name": "Aslıhan Çelik Tufan",
+                            "webUrl": "https://www.goodreads.com/user/show/64872550-asl-han-elik-tufan",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.620930451471E12,
+                        "createdAt": 1.599479854199E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.599480220977E12,
+                        "text": "Değil 5, 10 yıldızım olsa veririm. Ben böyle bir eser karşısında saygı ile eğilirim. Bu nası güzel bir şaheser. Bu nası bir emek. Bu nası bir efsane.<br /><br />Düşünsenize 43 günde elle yazmış! Tam bir çılgınlık!<br /><br />Okuması bu kadar güzel ve kwyifli bu kadar etkileyici bir kitap daha olamaz hele 900 sayfa!<br /><br />900 sayfa diye ne okumaktan ne almaktan caymayın. Ne kadar kısa zamanda bitirdiğinize inanamayacaksınız.<br /><br />Asla bi bölümü de kısa olsa ya da olmasa demedim. Hala o köydeyim sanki öyle bi garip öyle bi duygu geçişi!<br /><br />Kah sesli güldüm kah gözüm doldu. Bazen insanlığımdan utandım ama iyi ki okudum.<br /><br />Yalnız şunu söylemek istiyorum, Nobel in hep siyasi dayanakla verildiği önyargılıyımdır haklı olduğumu bu kitapla da gördüm. Ama bu defa haklılığımı değil bu efsane kitabı övmeyi daha yerinde buluyorum.<br /><br />Lütfen okuyun, okutun, bu epik şaheseri okumadan göçmeyin dünyadan<br /><br />Keyifli okumalar!",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/64872550?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "2020-read",
+                                        "webUrl": "https://www.goodreads.com/review/list/64872550?shelf=2020-read",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "2020-roman",
+                                        "webUrl": "https://www.goodreads.com/review/list/64872550?shelf=2020-roman",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/2261649283",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 21,
+                        "viewerHasLiked": false,
+                        "commentCount": 3
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.rGliqa4ruhP0EC302D_vEg",
+                        "creator": {
+                            "id": 102642991,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1646340137i/102642991._UY200_CR49,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 27,
+                            "__typename": "User",
+                            "textReviewsCount": 114,
+                            "name": "Vladys Kovsky",
+                            "webUrl": "https://www.goodreads.com/user/show/102642991-vladys-kovsky",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.674040936512E12,
+                        "createdAt": 1.643115550507E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.643122756133E12,
+                        "text": "The book exceeded my expectations. In addition to delivering clever social commentary, great humor and excellent storytelling the book does what good literature must do - it focuses on the essence of human condition. An excess of melodrama in the final chapters and obvious constraints the author faced when approaching the present day may have weakened the book towards the end. Still, I will be happy to pick up other books by Mo Yan to interact more with his quirky characters.<br /><br />A note on the translation: the book reads well in English but suffers from some annoying factual errors, like a city being below sea level or girls turning into boys. A careful proofreading of the text in English is needed.",
+                        "rating": 4,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/102642991?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "book-club",
+                                        "webUrl": "https://www.goodreads.com/review/list/102642991?shelf=book-club",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/4468099074",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 21,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.91bPeCtUDiFUWZ6SFWs41w",
+                        "creator": {
+                            "id": 23597312,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1540205170i/23597312._UY200_CR50,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 240,
+                            "__typename": "User",
+                            "textReviewsCount": 173,
+                            "name": "Çağdaş T",
+                            "webUrl": "https://www.goodreads.com/user/show/23597312-a-da-t",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.613150670536E12,
+                        "createdAt": 1.516690464987E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.516691301985E12,
+                        "text": "Müthiş bir hikaye anlatıcının, arka planda Mao devrimi, toprak reformu ve sonrasında yaşananları kullandığı yaklaşık 50 yıllık bir süreci Ximen Konağı sakinlerini mercek altına alarak anlatışı.<br />Mo Yan denilen ufaklık, safsatalar kralı çok kere güldürdü beni, kimi zaman hüzünlendirdi kimi zaman da sarstı. Kitabı 43 gün gibi kısa bir sürede yazması, kitabın niteliğini ne kadar olumlu / olumsuz etkiler bu elbet ayrı konu fakat yazarın takdiri hak ettiği aşikar. <br /><br /><input type=\"checkbox\" class=\"spoiler__control\" aria-label=\"The following text has been marked spoiler. Toggle checkbox to reveal or hide.\" onchange=\"this.labels[0].setAttribute('aria-hidden', !this.checked);\" id=\"5673cc08-b518-40e6-bbc1-d7d9b5e5e157\" /><label aria-hidden=\"true\" class=\"spoiler\" for=\"5673cc08-b518-40e6-bbc1-d7d9b5e5e157\"><br />Romanın son bölümüne kadar müthiş bir beğeniyle okudum. Fakat köpeğin ölümünden sonra zaten Mo Yan'ın da belirttiği gibi kitap bitebilir veya bitmese de bitmesi için yazılmayabilirdi. Bana son bölüm hızla geçiştirilmiş, biraz fazla absürdlüğüyle, ince elenmemiş kitabın bütününe uymamış gibi geldi.<br />Bu yüzden 4 yıldız vermeyi tercih ettim. İri Memeler ve Geniş Kalçalar'ı daha çok beğeneceğimi umuyorum.<br /></label>",
+                        "rating": 4,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/23597312?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "can-yayinlari",
+                                        "webUrl": "https://www.goodreads.com/review/list/23597312?shelf=can-yayinlari",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "advicefromdeniz",
+                                        "webUrl": "https://www.goodreads.com/review/list/23597312?shelf=advicefromdeniz",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "library",
+                                        "webUrl": "https://www.goodreads.com/review/list/23597312?shelf=library",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/1982774414",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 20,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.KomNcHMXgquCa__6-0SXWQ",
+                        "creator": {
+                            "id": 75888222,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1535469076i/75888222._UY200_CR1,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 52,
+                            "__typename": "User",
+                            "textReviewsCount": 128,
+                            "name": "Katayoon",
+                            "webUrl": "https://www.goodreads.com/user/show/75888222-katayoon",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.651917491402E12,
+                        "createdAt": 1.629794113951E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.629794393214E12,
+                        "text": "جذابیت داستان برای من به طور صعودی پیش رفت و پایان کتاب اوج داستان بود. از اون پایان‌بندی‌های ماندگار در ذهن.<br />فصول پایانی یه جورایی من رو یاد صد سال تنهایی مینداخت، گویا مویان هم گفته از فاکنر و مارکز الهام گرفته...<br />داستان بر بستر تاریخ چین از سال ۱۹۵۰ تا ۲۰۰۰ (عصر اصلاحات) و همچنین تناسخ‌های پی در پی شخصیت اصلی کتاب در قالب حیوانات مختلف روایت شده.<br />- مویان این رمان حجیم را در ۴۲ روز نوشته.<br /><br />پ.ن: فهمیدم ازدواج فامیلی در چین ممنوعه و همچنین داشتن بیش از یک همسر مجاز نیست.",
+                        "rating": 4,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/75888222?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/2977215186",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 19,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.y8vNBul5jdqJs7s0Gh3lMQ",
+                        "creator": {
+                            "id": 6190722,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1438442488i/6190722._UY200_CR21,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 19,
+                            "__typename": "User",
+                            "textReviewsCount": 186,
+                            "name": "Arzu",
+                            "webUrl": "https://www.goodreads.com/user/show/6190722-arzu",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.597150443765E12,
+                        "createdAt": 1.535305006858E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.535305018955E12,
+                        "text": "yazar 43 günde yazmış ben 69 günde okudum, aferin bana! <br /><br />şirkette bir toplantı öncesi bir arkadaşım ile konuşurken mo yan'ın kitabından ve reenkarnasyon hikayelerinden bahsettim.. kalpleri kinle dolu olan ruhların insan olarak dünyaya dönememesi ve her reenkarnasyon sonrasında önceki hallere ilişkin bilginin silikleşmeye başlaması ve var olduğu formun koşullarına nasıl ayak uydurmaya başladığını anlattım.. <br />arkadaşım da \"bebeklerin doğduklarında konuşamaması, konuşmayı öğrenene kadar geçen süre ve seyirci olarak var olmaları bana hep ilginç gelmiştir\" dedi.. kızı konuşmaya biraz erken başlamış, ilk söylediği ve sonra asla hatırlamadığı şeylerden biri \"sen benim seksen ikinci annemsin, seni sevdim. annem olduğun için teşekkür ederim.\" olmuş.. anlattığında abartı var mıdır bilemem ama belki de dünyaya gönderilen sınırlı sayıda ruh vardır ve o ruhlar farklı canlılar olarak dönüp duruyordur, kim bilir..",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/6190722?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "roman",
+                                        "webUrl": "https://www.goodreads.com/review/list/6190722?shelf=roman",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "favorite",
+                                        "webUrl": "https://www.goodreads.com/review/list/6190722?shelf=favorite",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/2428599718",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 18,
+                        "viewerHasLiked": false,
+                        "commentCount": 1
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.QB9IeILbB8JUe8ZNyTWmIA",
+                        "creator": {
+                            "id": 33590272,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1406981947i/33590272._CR0,10,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 207,
+                            "__typename": "User",
+                            "textReviewsCount": 657,
+                            "name": "Aslı Can",
+                            "webUrl": "https://www.goodreads.com/user/show/33590272-asl-can",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.599566207846E12,
+                        "createdAt": 1.590939728556E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.591348432312E12,
+                        "text": "Güneşi hep yuvarlak görüyordu insanlar, ama ay? <br /><br />Bir gece yusyuvarlak olurken, diğer bir gece yarısını kaybediyor. Bazı gecerler ne kadar baksan da onu bulamazken, bazen de bir yılanın tehditkar dili edasıyla kıvranıyordu gökyüzünde. <br />İşte ay, böyle şakacı, böyle beklenmedik, böyle süprizlerle dolu birisiydi. Bir önceki gece güvenle kucağında yatmış olmanız, diğer bir gün sizi yarı yolda bırakmayacağı anlamına gelmiyordu hiçbir şekilde. Mitolojilere göre de acayiptir; güneş akılla bilgelikle anılırken, ayın adı delilerle birlikte anılır. Ayı sevenler biraz nostaljik, biraz melankolik, birazcık da ne bileyim işte.... Değişik olurlar. <br /><br /><i>''Havaya yayılan renksiz likör maviye boyanmış inci taneleri gibi dökülüyordu. Ay hafifçe titreyip, Lan Lian'a göz kırptı. Şimdiye kadar hiçbir şey beni bu kadar derinden etkilememişti, güneşe methiyeler düzülen bu çağda aya karşı böylesine derin duygular besleyen biri de varmış meğer.''</i><br /><br />Eh, Yaşam ve Ölüm Yorgunu da ay gibi, bi' değişik bi' şey. Akılla delilik, destanla roman, antik tiyatro ile postmodern edebiyat arasında; hepsinden bir parça var içinde. Üstelik en güzel yanı, kendi kendini anlatan; referansa, altmetine, göndermelere ihtiyaç duymayan dolu dolu bir kitap. <br /><br />Güya roman olan bu şeyin, sözde yazarı Mo Yan da, hikayenin karakterlerinden birisi olarak çıkıyor karşımıza. Okuyup bitirdikten sonra, bu kitapla ilgili acayip bir şeyler döndüğünü düşünmeye başladım ve hakkında bir araştırma yapmaya karar verdim. <br /><br />İşe önce romanın yazarını araştırmakla başladım ki o da ne???? Çin devlet arşivlerinde, Mo Yan diye birinin yaşadığına dair hiçbir kanıt yok. O zaman kendini karakter olarak romana yerleştiren bir yazar vakası değil karşı karşıya olduğumuz! Mo Yan, kendini yazar sanan kibirli bir roman karakteri olabilir olsa olsa. Bir de kitabın sonunda bu romanı 43 günde, elleriyle yazdığı gibi bir şeyler gevelemiş ki bu da şüphelerimi doğrular nitelikte. Bu romanı Mo Yan'ın yazmadığı su götürmez bir gerçekse, kim yazdı peki?<br /><br /><br />Araştırmayı seven dikkatli bir okur olarak yaptığım araştırmalar sonucunda, bu romanı ayı daha önce hiçkimsenin görmediği bir şekilde görmeyi kafasına koymuş yarı deli, isimsiz bir gezginin yazdığını keşfettim. Bu tutku öyle ele geçirmiş ki bu meczupu, tutkusu üzerine düşündüğü gecelerden birinde kendisi sürekli sabit bir kılıkta kaldığı sürece, ayın (hem de sırf onun keyfi için) farklı bir kılığa bürünmesinin mümkün olmadığına kanaat getirmiş. O günden sonra bir gün domuz olduysa, öbür gün Ximen Nao kılığına girmiş bu gezgin. Bir gün eşek olduysa, öbür gün Lan Jiefang... Vali de olmuş ayyaş da; kayısı ağacında bir yaprağın gözünden de bakmış dünyaya; köpek bokunun da... Bu isimsiz gezgin, yüzlerce insan, yüzlerce varlığın bedeni ve ruhu arasında kimbilir kaç gün kaç gece gezmiş durmuş böyle. Ve nihayet gecelerden bir gece, ay hiç beklenmedik bir biçime girerek göz kırpmış ona. Sadece bir kerecik, belki de bir anlığına... Bizim isimsiz meczupa yetmiş de artmış tabi aldığı bu cevap. Havalara uçmuş, zevkten bir kat daha çıldırmış ve o zevk anı geçtikten sonra tutkusuna kavuşan insanlara çöken o bildik boşluk duygusu çöküvermiş üzerine. Binlerce ruh arasında gezdikten sonra, hayatta artık hiçbir amacı, hiçbir hevesi kalmamışmış. O kadar acı ve zevki tatmışken, şimdi oturup da tek bir kılıkta ölmeyi bekleyemezmiş ya... Bir süre düşündükten sonra, delice yaşadığı o geçmiş hayatına tutunmaya karar vermiş. Oturmuş herbir bedende yaşadığı maceralarını unutmamak için, tek tek herbir anısını kağıtlara aktarmış elleriyle. Eh, bu isimsiz meczupun kendisi için verdiği bu uğraş meyvesini vermeye başlamış. Bitirir bitirmez de, ölüvermiş. İlk nüshayı kimin bulduğu belirsiz ama bir kere keşfedildikten sonra, bu gezginin maceraları başka hayalperestler için bir rehbere dönüşmüş. Her okuyan bir kopyasını çıkarıp, aynı hayalleri kuran bir başkasına vermiş o kopyayı. <br /><br />Araştırmalarımın sonucunda ulaştığım bilgiler bunlar, fakat basit bir roman karakteri olan Mo Yan'ın nasıl olup da kendini bu kitabın yazarı olarak tanıtmayı başardığını bir türlü bulamadım. Akıl alır gibi değil, nasıl fark etmez kimse bu oyunu?<br /><br />Evet sayın okur, dikkatli bir okur olarak yaptığım araştırmalar sonucunda edindiğim bilgileri paylaştım sizlerle. İnanıp inanmamak, kullanıp kullanmamak size kalmış.",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/33590272?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/2250863287",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 17,
+                        "viewerHasLiked": false,
+                        "commentCount": 2
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.w4gs0qjKEjJaElxERYJRjQ",
+                        "creator": {
+                            "id": 1242165,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1248055412i/1242165._CR0,47,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 63,
+                            "__typename": "User",
+                            "textReviewsCount": 246,
+                            "name": "Schmacko",
+                            "webUrl": "https://www.goodreads.com/user/show/1242165-schmacko",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.624513783228E12,
+                        "createdAt": 1.35722803E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.357248145E12,
+                        "text": "I’m not sure I completely understood this book, but I know I want to read it again. <br /><br />Mo Yan is this year’s Nobel Prize winner. This is his most recent book about a man who may have been unfairly executed and who has been reincarnated several times into his old neighborhood. Does he seek revenge? Did he deserve to die?<br /><br />There are several gimmicks (and I use that word specifically). <br /><br />Ximen Nao was a landowner in pre-Revolution China. His tenant farmers killed him when Communism came to power. He spends two years being tortured in the underworld by Lord Yan before he gets to go back. Normally, when someone comes back, they have their memory erased. Ximen Nao forwent that so he could figure out if he was guilty or if he needed to avenge his own death.<br /><br />There are several gimmicks at play here (and I use the word gimmick on purpose; I’ll explain.) <br /><br />The first time, Ximen Nao gets sent back as a mule, then as an ox, a pig, a dog, and a monkey. His adopted son and favorite tenant own him; then the man’s sons and grandsons own him. These several animals’ lives allow Yan to explore so much. He lets us see the world from the animals’ perspective. Because these animals don’t live as long as humans, Yan can take us through Chinese provincial history. The animals are servile, a lot like Ximen Nao’s tenants were to him; they all live in poverty.<br /><br />Yan has a witty sense of criticism for provincial Communism, the little despots, and the crude politics. These small lives are shaped by bigger things in Chinese history, Mao, his death, the rise of a more violent and totalitarian China, and its slow move into the 21st century, with consumerism lightening the once-cruel structure. I wonder how Yan gets away with it; how the government lets him be satirical. True, Yan’s criticism is gentle and rural; that might be the thing saving him when other artists become imprisoned.<br /><br />Yan does do a couple frustrating things. He keeps shifting the narrative voice whenever Ximen Nao moves into the life of another animal. It makes for a less boring, more well rounded perspective. However, the “voices” of the characters were not different enough to help me understand them as personalities. (This may be the fault of the translation from Chinese into English.) Still, I found myself struggling to remember who was talking. There were so many characters with similar names that a little language differentiation wouldn’t have helped me as a reader.<br /><br />Yan also makes himself into a character, one who many of his fictional character find annoying or artistically dubious. Other characters refer to his spurious and supposedly inaccurate stories. (Yep, in a story Yan himself wrote, his character criticize other writings. Adorable…) Yan was raised here in this province he fictionalized. This is cute but also a little vain, maybe. It may be Yan’s way of criticizing himself as he critiques his own rural life and its governance. It’s one way to talk about perspective, but I think it’s a little shallower than many other methods Yan could’ve chosen. This is clearly where I thought Yan – who is clearly a talented and deep writer - might have added one too many simplistic gimmicks.<br /><br />I admit all the Chinese mythology and names got confusing. I had to create a diagram, a family tree. I don’t have any cultural reference; the foreignness is both a plus and a minus for me with this book, but one where I might be at fault as easily as the book. <br /><br />I love the title! And there’s a message here about changing life, changing politics, how everything is in flux, understanding is difficult, and we all suffer from a selfish inability for perspective – we all see things through our own eyes – and that intrigues me to put this on the shelf and reread it later. <br /><br />I totally understand why Yan won the Nobel. I like being frustrated by a good book, and this is what happened here. I like feeling like I went somewhere I wouldn’t have normally gone. Small quibbles aside, I will pick this up again.<br />",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/1242165?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/493787892",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 16,
+                        "viewerHasLiked": false,
+                        "commentCount": 3
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.ycayxrnc8i709jXYjM5aeQ",
+                        "creator": {
+                            "id": 7024922,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1672128004i/7024922._UX200_CR0,11,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 317,
+                            "__typename": "User",
+                            "textReviewsCount": 297,
+                            "name": "Sine",
+                            "webUrl": "https://www.goodreads.com/user/show/7024922-sine",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.660284287843E12,
+                        "createdAt": 1.603651907663E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.603653464356E12,
+                        "text": "hayatımda okuduğum en farklı kitaplardan biriydi. bir yandan büyülü gerçekçi gibi ama tam da değil, anlattığı şeylere sürreal değil gayet doğal olaylarmış havası vererek yazmış mo yan. bir toprak ağasının öldükten sonra eşek, boğa, domuz, köpek ve maymun olarak reenkarne olması çok doğal, normal ve gerçekçi bir şeymiş gibi okudum, ve müthiş keyifliydi. kitap, rafta durduğu üç senedir korkmamın saçma kalacağı kadar da akıcıydı. buna ek olarak çin kültürüne dair tonla şey öğrendim, ufkum açıldı, o da okur olarak benim açımdan bir artı puan. bir de yazarın kendini bir karakter olarak -ve durmadan aşağılayarak- kitaba eklemesi çok eğlenceliydi. tek tük beğenmediğim şey oldu ama böyle bir kitaba uyduruk eleştirilerimi getirmek istemedim şu an.",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/7024922?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "favorites",
+                                        "webUrl": "https://www.goodreads.com/review/list/7024922?shelf=favorites",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "bonne-translation",
+                                        "webUrl": "https://www.goodreads.com/review/list/7024922?shelf=bonne-translation",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/1908814793",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 16,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.p11UwHsRIMZTABDhYEZu4g",
+                        "creator": {
+                            "id": 96994075,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1598727994i/96994075._UY200_CR33,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 9,
+                            "__typename": "User",
+                            "textReviewsCount": 61,
+                            "name": "Amir",
+                            "webUrl": "https://www.goodreads.com/user/show/96994075-amir",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.678395192552E12,
+                        "createdAt": 1.677961647253E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.677962322949E12,
+                        "text": "شاهکار <br />مویان یعنی تلفیق فاکنر و مارکز <br />اگر کتاب صد سال تنهایی رو دوست داشته باشید قطعا این کتاب هم می‌پسندید.<br />یک کتاب رئالیسم جادویی با مضمون زندگی و سیاست و عشق و گاها با لحن طنز .<br />داستان یک زمین دار چینی که در اوایل انقلاب به دست افراطیون انقلابی اعدام میشه بعد طی ۵ مرحله در کالبد حیوانات مختلف به دنیا میاد و هر سری شاهد اتفاقات جالبی هستیم و آخر داستان به صورت انسان متولد میشه .<br />اگه به رمان‌های سیاسی علاقه ندارید محتوای سیاسی این کتاب خشک و آزار دهنده نیست و نویسنده با هنرمندی سیاست رو هم قاطی داستان کرده .<br />این کتاب هم مثل صد سال تنهایی پر از شخصیت هست و سرنوشت یک خانواده روایت میشه .<br />اوایل کتاب تا به قلم نویسنده عادت کنید شاید خوب پیش نره ولی هرچی جلوتر برید بیشتر در داستان غرق می‌شید .<br />ترجمه کتاب هم روان و عالی بود در هفتصد و هشتاد صفحه شاید به پنج شش مورد برخورده باشم که مبهم و گنگ باشه .<br />دست مویان و مترجمین درد نکنه 👏",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/96994075?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/5389972150",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 15,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.4gx_AO-VNBsFUD5PCmSJkQ",
+                        "creator": {
+                            "id": 40851824,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1546424021i/40851824._UX200_CR0,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 12,
+                            "__typename": "User",
+                            "textReviewsCount": 43,
+                            "name": "Cagdas Akdemir",
+                            "webUrl": "https://www.goodreads.com/user/show/40851824-cagdas-akdemir",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.607672154168E12,
+                        "createdAt": 1.527610605579E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.527610625909E12,
+                        "text": "Çok çok iyi. ",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/40851824?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/2310407040",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 14,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.esuJ3UgAiZMuUKh4pMWiAQ",
+                        "creator": {
+                            "id": 1457001,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1362701086i/1457001._UY200_CR33,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 146,
+                            "__typename": "User",
+                            "textReviewsCount": 666,
+                            "name": "Stephen Durrant",
+                            "webUrl": "https://www.goodreads.com/user/show/1457001-stephen-durrant",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.671693595487E12,
+                        "createdAt": 1.355912261E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.35591233E12,
+                        "text": "After reading this novel, my opinion of recent Nobel-Prize-winner Mo Yan has improved (see review of \"Big Breasts and Wide Hips\"). \"Life and Death is Wearing Me Out\" covers fifty years in the life of rural Gaomi Village through the eyes of two narrators, one who has lived in that village for the entire time and the other who has witnessed many of the same events in a series of reincarnations: the petty landlord Ximen Nao, a donkey, a pig, a dog, a monkey, and, at last, a human once again, the \"Millennial Boy\" born on January 1, 2000. The second narrator, who has tricked the servants of Lord Yama and is therefore able to remember his previous incarnations, is the dominant and more delightful of the two narrators, although the reader should be warned that this, like almost all modern Chinese literature, is no breezy, happy read. After all, one can hardly wade through the period from the 1949 Revolution to the turn of the century in China without the requisite dose of horror. Mo Yan is himself a character in this novel. The garrulous, mischievous, irrepressible novelist-wannabe is repeatedly ridiculed by the two narrators, with some of this ridicule a parody of Mo Yan's own critics within China. \"Life and Death is Wearing Me Out\" is a success, at least in this reader's view, because it plays with both the ironies of reincarnation, according to which your pet might be your father, and with that desire to know what happens after you die. I remember my mother telling me, just a few days before she passed away, that she didn't fear death she just wanted to know how things would work out for her family and friends. Death, if you are engaged in life, is a bit like walking out of the theater in the middle of an exceedingly interesting movie. Well, knowing the end of the next chapter of a story can be a mixed blessing, as Ximen Nao in this novel finds out. Now as a donkey, later as a pig, etc., he watches his former wife age, his concubines become the wives of others, and his posterity sometimes suffers horribly. All in all his life as a series of animals is no worse, and generally better, than the lives of the humans around him. Much more could and should be written on this long and sometimes complex novel, but I will leave off with my revised judgment of its author--perhaps Mo Yan, if not the best choice for a Nobel Prize, was not a disastrous choice either.",
+                        "rating": 4,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/1457001?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/480807724",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 11,
+                        "viewerHasLiked": false,
+                        "commentCount": 1
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.oPDorvTc2x7cc07e1pcA5Q",
+                        "creator": {
+                            "id": 62920477,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1633544795i/62920477._UY200_CR33,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 29,
+                            "__typename": "User",
+                            "textReviewsCount": 171,
+                            "name": "Hoora",
+                            "webUrl": "https://www.goodreads.com/user/show/62920477-hoora",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.636814630018E12,
+                        "createdAt": 1.636694019138E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.636705746598E12,
+                        "text": "داستان این کتاب درباره تناسخ روح یک‌ مرد کشاورز در جسم چهار حیوان : خر، ورزا، خوک و سگ است که ضمن روایت زندگی حیوانی اش، به شرح حوادث و تحولات چین در طی پنجاه سال می پردازد... <br /><br />گرچه بخش هایی از کتاب را یک آدم روایت می کند، اما قسمت‌هایی که به توصیف زندگی یک حیوان و نگاهش به آدمها می‌ پردازد، شگفت انگیز و بی نظیر است. <br /><br />قلم مو یان را دوست دارم و خواندن این یکی هم، مثل ذرت سرخ تجربه‌ ای عالی بود.",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/62920477?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "favorites",
+                                        "webUrl": "https://www.goodreads.com/review/list/62920477?shelf=favorites",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/3438273708",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 10,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.DaHfF8PKMSr-hAVYFvKhqA",
+                        "creator": {
+                            "id": 1326602,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1617127232i/1326602._UX200_CR0,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 15,
+                            "__typename": "User",
+                            "textReviewsCount": 62,
+                            "name": "Ali Khosravi",
+                            "webUrl": "https://www.goodreads.com/user/show/1326602-ali-khosravi",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.606847853985E12,
+                        "createdAt": 1.579882051297E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.602868813717E12,
+                        "text": "یک رمان شگفت انگیز! بیشتر حوادث در روستایی دور افتاده در چین اتفاق میافته که از دوران حکومت کمونیستی شروع میشه و کم کم با اصلاحات اقتصادی دهه نود ادامه پیدا میکنه و با شروع سال دو هزار میلادی تموم میشه. البته بسیار فانتزی و منحصر به فرد. صحنه نبرد دو خوک نر و و رقص و آواز خوندن خوک های ماده و سر آخر جفتگیری خوک های نر و در جایی دیگه جشن و مشروب خوردن سگ ها در نیمه شب در زیر نور ماه در میدانی با مجسمه آفرودیت جزو فانتزی ترین بخش های کتاب بودن.",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/1326602?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/3158271005",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 10,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.95ZiCOkGzrKsYQtUCYBu-Q",
+                        "creator": {
+                            "id": 11465305,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1357464177i/11465305._UX200_CR0,34,200,200_.jpg",
+                            "isAuthor": true,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 174,
+                            "__typename": "User",
+                            "textReviewsCount": 145,
+                            "name": "Стефан Русинов",
+                            "webUrl": "https://www.goodreads.com/user/show/11465305",
+                            "contributor": {
+                                "id": "kca://author/amzn1.gr.author.v1.N4-R7CUHeaKe6vfCYByaWQ",
+                                "works": {
+                                    "totalCount": 15,
+                                    "__typename": "ContributorWorksConnection"
+                                },
+                                "__typename": "Contributor"
+                            }
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.559936256296E12,
+                        "createdAt": 1.426454889E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.426495965E12,
+                        "text": "Идеята за структурата на романа ми се стори гениална още преди да зачета: петдесет години история, разказана от една и съща душа, превъплътена последователно в земевладелец, магаре, бик, прасе, куче. Отначало наративът е малко объркан, но когато става ясно, че цялата книга е оформена като диалог между последното превъплъщение на въпросната душа (Лан Циенсуй - петгодишното едроглаво дете), което през 2005 г. разказва преживяното през всичките си прераждания, и един от главните герои през тези петдесет години (Лан Дзиефан - дядото на едроглавото дете), всичко си идва на мястото.<br /><br />Харесва ми как Мо Йен се присмива еднакво състрадателно на всички свои герои, било когато описва жалките им простъпки, било когато възпява приказните им подвизи. Скопени, юначни, омърсени, доблестни, инатливи, скърбящи, похотливи, прощаващи, невежи, горделиви - никой не получава по-специално третиране, всички са разказани без симпатии и с насмешка. Мисля си, че точно така обича бог - без симпатии и с насмешка.<br /><br />В крайна сметка никой от десетките герои не ми беше грешен или правилен, при все че в историята участваха всякакви чешити, и тази крупна социална картина всъщност имаше вид на природна картина, където едно дърво или една буря не са правилни или грешни и където нищо не може да е иначе, защото е така, както е. <br /><br />Животинската разказваческа гледна точка засилва това усещане за природност на човешкия свят. Очевидно всички животни-разказвачи са зависими от човешката подредба, в която се намират, и няма как да променят статуквото, така че през техните очи човешкото изглежда тъкмо като неведомо, непредвидимо, неконтролируемо природно. При всяко едно от преражданията си бившият човек Симън Нао бързо влиза в роля, отдава се на атавистично заложените му природни нагони и влиза в човешкия свят, като обслужва очакванията към себе си. От друга страна, всяко животно се отличава с особени табиети, които търпят развитие и на които непрекъснато се набляга. Тоест в изграждането на животинските образи има едно много симпатично комбиниране: сливане с колективното и подхранване на индивидуалното. Характерни за персонажите на Мо Йен са изключителната плам и отдаденост на призванията им. Повечето от тях не ги задоволява да бъдат просто някакви, те искат да са страхотни някакви. Да, да бъдат част от колектива, но и да бъдат баси яката част от колектива. Така е и с животните тук - на тях очевидно не им стига да са просто магаре, бик, прасе, куче, а желаят да са невероятни магаре, бик, прасе, куче. В крайна сметка всяко от тях извършва велик подвиг, който остава в историята, но все пак не променя коритото ѝ. <br /><br />От различните части на книгата ми останаха разни такива образи: двете влюбени магарета, които собственокопитно побеждават свирепите вълци; бикът, който отказва да работи за кооператива и пребит (но освободен именно от побоя) прави няколко крачки, за да издъхне върху ��динственото останало парченце частна земя; прасето, което се катери по дървета, тренира и най-съзнателно и съвестно се отдава на природните си нагони; кучето, което долавя миризмата на сперма и презерватив, когато господарят му се връща уж от служебна среща... <br /><br />Друга дихотомия, която бива размита посредством животинския похват, е душа-тяло. В различните тела на разказвачите е една и съща душа, която има (бегли) спомени за предишните си животи, но като цяло тя е под команда на тялото. Разказът се води хем от все същата душа, хем (в много по-голяма степен) от конкретното тяло, в което е попаднала. Изобщо, в противовес с представите, че на изток духът властва над тялото, напоследък все по-силно впечатление ми прави силното извисяване на телесното, щателното отношение към неговата природност с всичките ѝ гадости, нужди, красоти и сили. Има някакъв особен вид религия, религия на тялото, антропология и арехеология на тялото, която разравя и разкрива закономерности, невидими за погледа, свикнал да търси духа.<br /><br />И понеже е модерно да се говори за политика, когато се говори за Китай, и да се иска ЕДНОЗНАЧНА политическа позиция от китайските творци: отначало си мислех, че Мо Йен отказва да прави политически изказвания просто защото неговата работа на писател е съвсем друга - да разказва и да е над всички позиции, пък и защото е печен и мъдър. Но сега разбирам какво е имал предвид, когато в Нобеловата си реч прикани критиците си да прочетат книгите му. Колкото и безпристрастна да е, историята в този роман е страшно чувствителна, детайлна и категорично нееднозначна аутопсия на китайското социално развитие през втората половина на XX век. А колкото по-нееднозначен е един роман (и трагичен, и смешен), струва ми се, толкова по-близо до същината и политиката на живота е.<br /><br /><br />Много ми харесва преводът на Петко Хинов, макар че сигурно мненията за него ще са противоречиви. На мен ми допада поради ред причини, но най-вече защото дори когато в историята има лек застой, разказът вълнува на чисто езиково ниво с всичките особени думи и изрази, които и Мо Йен, и Хинов използват и които ме пращат към тълковния речник през пет минути. Мисля, че цветистият и архаичен език пасват изключително добре върху текстовете на Мо Йен, макар че в случая се беше получило по-уместно през първите няколко десетилетия, докато разговорният език на 90-те изисква малко по-друга лексика и граматика.<br /><br />Иначе има и бая пропуски и грешки, които на фона на целия обем не изглеждат много, но средно по една сериозна на десет страници прави общо около шейсет яки спъвания в българския текст, които тотално биха отказали някои читатели от и без друго доста ръбатия роман и които по мое мнение е можело да се избегнат с още месец-два работа, като отговорността в случая е повече на редакторите, отколкото на преводача.<br /><br />При всички положения евала на \"Летера\", че изобщо са се заловили с този тежък проект и че са го изтикали докрай, и на Петко Хинов за неговия Мо Йен.",
+                        "rating": 0,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/11465305?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/1228339422",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 9,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.RjAYiR0DiXPUWtXa6n4D-g",
+                        "creator": {
+                            "id": 97732361,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1558827818i/97732361._UY200_CR25,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 7,
+                            "__typename": "User",
+                            "textReviewsCount": 106,
+                            "name": "Neo Mohammad ",
+                            "webUrl": "https://www.goodreads.com/user/show/97732361-neo-mohammad",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.676461788587E12,
+                        "createdAt": 1.595975025895E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.639988739066E12,
+                        "text": "‏واقعیتش هیچ‌وقت درگیر تناسخ نبودم؛ حتی وقتی این کتابو انتخاب کردم. بخاطر \"مو یان\" بود که گرفتمش. می‌خواستم از ادبیات چین بخوانم و چه کسی بهتر از \"مو یان\"؟ آکادمی نوبل درمورد انتخابش گفته بود این جایزه رو بخاطر واقع‌گرایی وهم‌آلود آمیخته با داستان‌های عامیانه و تاریخی بهش دادن. اینو قبل از خواندن کتاب شنیده بودم، ولی بعدش درکش کردم. مو یان یه جوری وهم و خیال رو با واقعیت تلفیق می‌کنه و یه روایت ساده و روان و جذاب بهت ارائه می‌ده که با تمام شخصیت‌های حیوانی داستان ارتباط می‌گیری و از خواندن داستان‌شون کِیف می‌کنی. البته کیف از نبوغ و قدرت مو یان.‏چون زندگی حیوانات خیلی هم جذاب و خوشحال‌کننده نیست. به‌ خصوص اگه یه خر باشی! <br />داستان تو دوره‌ی اصلاحات ارضی چین رقم می‌خوره و همین بستر مناسبی واسه کنایه‌ها و نقدهای مو یان به سیستم میشه. ایستادگی یکی از شخصیت‌ها مقابل سیستم و مقا‌متش مقابل حرف زور و پذیرش تمامی تاوان‌هاش؛‏ تنهایی و تمسخر و تهدید و تحقیر و فشار و ارعاب و ... ولی ایستادن و تن‌ ندادن به حرف زور! صبر و صبوری و امید! این شخصیت عالی بود.<br />تولد و حضور خود مو یان به عنوان یه شخصیت طی داستان به شدت هوشمندانه‌ست و حتی مدل برخوردش با خودش که مدام تحقیرانه و تمسخرآمیز و کنایه‌آمیزه .‏مو یانی که توی داستان دکوری نیست و موثره. <br />روایت زندگی ۴ نسل از خانواده و شخصیت‌های داستان که تو رسماً باهاشون زندگی می‌کنی و بچگی و بزرگ‌شدن‌‌شون و مرگ‌شونو تجربه می‌کنی. این حس همراهی که حلقه‌ی واصله‌ی همه‌شون یه حیوانه! <br />نوع روایت شیرین و شیواست و همونطور که‌ گفتم ساده و روان.‏تو به معنای واقعی کلمه از خواندن کتاب لذت می‌بری. ترجمه‌ واقعاً عالیه و نقش مهمی تو برقراری ارتباط با داستان و قلم مویان داره. ویراستاری و کیفیت چاپ و طرح جلد هم راضی‌کننده و خوبن. کتاب قطوره، ولی سنگین نیست. ۷۸۵ ص رو می‌تونی تو ۳ هفته و حتی کمتر بخوانی و هیچ آزاری هم حس نکنی!‏<br />پایان یادداشت رو هم اختصاص می‌دم به پایان کتاب! عجب پایانی! فوق‌العاده جذاب و هوشمندانه! پایانی که تو نمی‌تونی بگی پایانه! چون خودش شروع یه ماجرایی که مخ‌تو می‌خوره و می‌گی: بابا دمت گرم! دست‌خوش آقای مویان! لعنت بهت! این چه پایان شیک و مجلسی‌ای بود؟!<br /><br />‎#از_کتاب‌هام",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/97732361?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/3467082725",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 9,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.G4xFKSOrjXEsNSilGPO35g",
+                        "creator": {
+                            "id": 41618837,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1555500117i/41618837._UY200_CR19,0,200,200_.jpg",
+                            "isAuthor": true,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 195,
+                            "__typename": "User",
+                            "textReviewsCount": 81,
+                            "name": "Ana-Maria Negrilă",
+                            "webUrl": "https://www.goodreads.com/user/show/41618837-ana-maria-negril",
+                            "contributor": {
+                                "id": "kca://author/amzn1.gr.author.v1.o04CzpwEmI5jY2o3EnCs1A",
+                                "works": {
+                                    "totalCount": 23,
+                                    "__typename": "ContributorWorksConnection"
+                                },
+                                "__typename": "Contributor"
+                            }
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.588838976697E12,
+                        "createdAt": 1.496436847477E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.496436935131E12,
+                        "text": "Povestea Ximen Nao se întinde pe zeci de ani, timp în care sufletul lui renaște succesiv într-un măgar, taur, câine și maimuță. Romanul este un amestec uimitor de vechi și nou, de tragic și comic, iar modul în care autorul, devenit personaj al cărții, apoi unul dintre naratori, ține în frâu firele încâlcire ale destinelor familiei Ximen transformă acest volum într-unul memorabil. ",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/41618837?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/1999176143",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 9,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.kWhHGXHJeigdQaSdU3XqvQ",
+                        "creator": {
+                            "id": 12878076,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1467812793i/12878076._UX200_CR0,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 0,
+                            "__typename": "User",
+                            "textReviewsCount": 76,
+                            "name": "Gözde",
+                            "webUrl": "https://www.goodreads.com/user/show/12878076-g-zde",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.6209304409E12,
+                        "createdAt": 1.609289830932E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.609289855303E12,
+                        "text": "Müthişti! ",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/12878076?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "far-east",
+                                        "webUrl": "https://www.goodreads.com/review/list/12878076?shelf=far-east",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "nobel-laureate",
+                                        "webUrl": "https://www.goodreads.com/review/list/12878076?shelf=nobel-laureate",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "historical-fiction",
+                                        "webUrl": "https://www.goodreads.com/review/list/12878076?shelf=historical-fiction",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/1239950935",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 9,
+                        "viewerHasLiked": false,
+                        "commentCount": 2
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.MssyGGC5YzJbptFNZbgVyQ",
+                        "creator": {
+                            "id": 71058075,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1611695387i/71058075._UX200_CR0,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 61,
+                            "__typename": "User",
+                            "textReviewsCount": 376,
+                            "name": "Joy",
+                            "webUrl": "https://www.goodreads.com/user/show/71058075-joy",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.630322538583E12,
+                        "createdAt": 1.629989775981E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.630242842617E12,
+                        "text": "Kitap mı bitti ben mi pek anlamadım. <br />Kitap karekterlerinden biri Mo Yan ve ben bu detayı sevdim. biraz kalabalık geldi bana ama olsun, ben kimim ki buna karar verecem. Bir aile üzerinden ülkenin sıkıntılarını anlatıyor yazar bu sefer farklı hayvanlara bürünerek. Her yeni hayvan yeni bir siyasi ve insani çalkantı dönemine denk geliyor. Karekter ne insanken ne de hayvanken gün yüzü görmüyor valla ya. Aşk hikayelerinin işleyiş biçimine de ayrı bayıldım. ",
+                        "rating": 3,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/71058075?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/4097987876",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 8,
+                        "viewerHasLiked": false,
+                        "commentCount": 2
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.ckAr7xRYQWuHdd1opCqXcA",
+                        "creator": {
+                            "id": 66310385,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1658856277i/66310385._UY200_CR0,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 177,
+                            "__typename": "User",
+                            "textReviewsCount": 1197,
+                            "name": "Emiliya Bozhilova",
+                            "webUrl": "https://www.goodreads.com/user/show/66310385-emiliya-bozhilova",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.672418496176E12,
+                        "createdAt": 1.559687354503E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.559759311783E12,
+                        "text": "Реално 2,5 звезди.<br /><br />Китайски прочит на “Фермата на животните”, примесена с колелото на преражданията, във времето на Големия Скок, Културната Революция и икономическите реформи в Китай, които ще заведат там производителите на айфони и ще създадат новите милионери на Поднебесната империя. <br /><br />50 години, последвали смъртта на Симън Нао през 1950 г, та чак до 2000 г., са видени през очите на убития земеделец, преродил се последователно - за негов най-голям бяс - в магаре, бик, прасе, куче, маймуна, и чак накрая в човек. Историята (Голямата История) е низ от епични и епизодични лудости. И от адаптация. Свиква се и с най-лошото, а то винаги е повече от доброто. Свиква се, но е трудно да се отървеш от омразата и гнева, както и от маската, която си си наложил. Историята на Китай се вихри в малко селце и обръща съдбите на всички герои. <br /><br />Харесаха ми магарето, кучето и маймуната, но те са и най-кратките, почти незабележими, истории, макар и много силни. Щеше ми са да са по-подробно разписани, особено кучето и маймуната. Историята на прасето ми преля чашата с физиологичните си аспекти, а и беше изключително тромава, безсъдържателна и скучна, а пък е ужасно дълга и е централна. Доста прескачах, за да се махна от нея. Там и критиката е най-много, но ми втръсна от повторенията. Конкретно в тази част хуморът и пародията избиха в абсурдност, която ме раздразни, вместо да задълбочи погледа.<br /><br />Интересна концепция, но не ме грабна. За любителите на сюрреалистичните истории в комбинация с Китай и Изтока обаче ще си струва.",
+                        "rating": 3,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/66310385?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "far-far-east",
+                                        "webUrl": "https://www.goodreads.com/review/list/66310385?shelf=far-far-east",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/2783079869",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 8,
+                        "viewerHasLiked": false,
+                        "commentCount": 5
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.800wIhul0rHsG3dSRbD7Qg",
+                        "creator": {
+                            "id": 6210319,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1318451949i/6210319._UY200_CR7,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 36,
+                            "__typename": "User",
+                            "textReviewsCount": 10,
+                            "name": "Rym",
+                            "webUrl": "https://www.goodreads.com/user/show/6210319-rym",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.525004661015E12,
+                        "createdAt": 1.395501734E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.407380607E12,
+                        "text": "Cả năm trời rồi mới lại được rate một cuốn 5 sao.<br /><br />Văn của Mạc Ngôn trong cuốn này thật đẹp, đẹp nhất trong những cuốn mình từng đọc của ông. <br />Chưa bao giờ mình thấy ở đâu những con vật bình dị như trâu, lừa, lợn lại có thể được miêu tả nên thơ và bi tráng đến thế như trong cuốn sách này.<br /><br />Mặc dù truyện mô tả một giai đoạn kéo dài 50 năm với những biến động nhiều đau thương của xã hội Trung Quốc nhưng hơn 800 trang sách không hề đem lại cho mình cảm giác mệt mỏi, lê thê và nặng nề. Cuốn sách giống như một sự tổng hòa rất châm biếm giữa những vở bi hài kịch nhiều hồi của con người và những bản anh hùng ca của loài vật. Nhiều khi đọc cười hềnh hệch, cười sảng khoái như đọc truyện tiếu lâm nhưng rồi lại thấy sao mà xót xa trước sự phi lý trớ trêu của cuộc sống, đau lòng trước cái cách con người đối xử với nhau còn không bằng cả loài trâu, loài lợn. Quả là một cảm giác dở khóc dở cười.<br /><br />Một điều độc đáo nữa là Mạc Ngôn lồng ghép bản thân như một nhân vật phụ trong tuyến truyện, tuy xuất hiện ít nhưng rất đặc sắc làm cho cả câu chuyện trở nên chân thực hơn, cũng như khiến mình càng ngày càng thấy Mạc Ngôn là một con người rất thú vị. Điều hiếm thấy bởi mình ít khi quan tâm đến cuộc đời tính cách của các nhà văn. ",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/6210319?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "nobel",
+                                        "webUrl": "https://www.goodreads.com/review/list/6210319?shelf=nobel",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "2014",
+                                        "webUrl": "https://www.goodreads.com/review/list/6210319?shelf=2014",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "five-star-fiction",
+                                        "webUrl": "https://www.goodreads.com/review/list/6210319?shelf=five-star-fiction",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "top-ten",
+                                        "webUrl": "https://www.goodreads.com/review/list/6210319?shelf=top-ten",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/888536159",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 8,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.gcSdrKenTlPV66F1mNKuGw",
+                        "creator": {
+                            "id": 115121819,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1641319472i/115121819._UX200_CR0,33,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 7,
+                            "__typename": "User",
+                            "textReviewsCount": 225,
+                            "name": "Tuba",
+                            "webUrl": "https://www.goodreads.com/user/show/115121819-tuba",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.655321864112E12,
+                        "createdAt": 1.650637934669E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.655321863894E12,
+                        "text": "Bu kitabın ardından buraya ne yazsam eksik kalacakmış gibi hissediyorum. Nefret, hüzün, umut, merak, huzur... Çoğu duyguyu hissettim bu neredeyse 1000 sayfalık kitapta. <br />Çocukluk çağında gece uyumadan önce anlatılan uzun bir öykü gibiydi Yaşam ve Ölüm Yorgunu'nun bıraktığı his. Elimden her bırakışımda bir sonraki okuma zamanımı bekledim heyecanla. Bütün odağımı sözcüklere yönlendirdim.<br />Çin edebiyatının beni bir kez daha hayal kırıklığına uğratmadığını söyleyebilirim. Okuması biraz sancılı olsa da oldukça keyifliydi. <br />Ximen Jinlong en hoşlanmadığım ve adının geçişinde bile göz devirdiğim bir karakterdi. Onun dışındaki her karakterin yaptıklarını, yaşadıklarını, söylediklerini bir noktada anlayışla karşılayabilmiştim. <br /><br />Mutlaka okunmasını önereceğim bir kitap oldu. Ne kadar seversiniz bilmem ancak değerli birkaç düşünceye varacağınıza inanıyorum.",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/115121819?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "favorites",
+                                        "webUrl": "https://www.goodreads.com/review/list/115121819?shelf=favorites",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/4589101484",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 8,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.0BQIfXndOgmTkK6-_LvYfA",
+                        "creator": {
+                            "id": 7907888,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1474702238i/7907888._UX200_CR0,53,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 179,
+                            "__typename": "User",
+                            "textReviewsCount": 607,
+                            "name": "Кремена Михайлова",
+                            "webUrl": "https://www.goodreads.com/user/show/7907888",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.555873325735E12,
+                        "createdAt": 1.555772230371E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.55579222039E12,
+                        "text": "<i>„Има ли все още омраза в сърцето ти?“</i><br />(Може ли напълно да стане така, Симън Нао, Лан Лиен, Лан Дзиефан?)<br /><br />По-рано бях споделила кои елементи от „Уморен да се раждам и да умирам“ ми приличат на Маркес, кои на Оруел (несравними на пръв поглед), но и през цялото време безспорно беше ясно – <i>„оня синковец“</i> Мо Йен си е сам за себе си. Наистина голям образ, както разказват за него и някои от героите в книгата с доста ирония (т.е. самоирония).<br /><br /><i>„Мо Йен от самото начало не беше добър селянин, той беше с тялото си на село, ама с ума си в града. Произходът ми бе нисък, ала той жадуваше за богатство и високо положение. Беше грозник, а се влачеше подир красавиците. Учил-недоучил, правеше се на ерудит…“</i><br /><br />Мойенски хумор има в цялата книга, но на моменти ми беше малко прекалена тази самоирония – исках да си представя Мо Йен от книгата като самостоятелен второстепенен герой, т.е. ако беше с друго име, да си създам представа за него, както за многобройните други герои. Но писателят Мо Йен си има цел – да ни разкаже пълноценно за тези 50 години – от 1950 г. до 2000 г. Сториха ми се не 50, а 150 – толкова много герои (вече дори имената им помня), семейства, животни, превратности, исторически събития; с толкова много подробности, главно за живота в китайското село – всичко се излива от пръстите на Мо Йен с лекота. Не може да се спре – още и още случки, още и още описания (само последното поколение по-бързичко мина). Сякаш е напълно документална книга и всичко се е случило, и всеки е съществувал. В началото си преписвах откъси предимно за комунистическите идиотщини.<br /><br /><i>„Казвам ти, кравата на народната комуна е производствена сила, а бикът на частника е реакционна производствена сила.“<br /><br />„… след това той изръси, че пролетната оран е първата битка във войната срещу империализма и капитализма, и срещу онзи частник, който върви по пътя на капитализма.“</i><br /><br />(от б. л. <i>Очертаните през 1958 г. три основни направления на политическата борба: „Генералната линия“ (на Партията), „Големият скок напред“ и народните комуни.</i>)<br /><br />Книгата все пак не е отблъскващо политическа/историческа, а предимно автентично-селска. И най-характерното – разказвачи са магаре, бик, нерез, куче… Все дошли там чрез „прераждания“ на убития от комунистите едър земевладелец и богаташ Симън Нао. Мислех, че ще се затрудня с имената, но още в началото са дадени на две страници, включително и връзките между тях (с което обаче се разкрива кой на кого какъв е и дори чак за края на книгата предварително се знае кой за кого ще се ожени).<br /><br />Магарето ми беше най-близко и интересно, при прасето едва издържах – доста противно. С всяко „прераждане“ връзките изтъняват, паметта се стеснява. Като че ли най-тежките периоди в историята никога няма да отминат, сякаш и личните истории са възможно най-оплетени и драматични. Обаче всичко може да се променя, всеки може да е и горе, и долу, ни напомня Мо Йен (и всеки иска да командори). И пак наново.<br /><br /><i>„Знаеш ли бе – продължи батко, – частниците са по-опасни реакционери и от заможните кулаци, тия чисто и искрено са приели реформата, а частникът открито се противопоставя на народната комуна. А да се противиш на социализма пък е равносилно да се противиш на Комунистическата партия, а това пък е все едно да враждуваш срещу Председателя Мао – а да си във вражда срещу него е равносилно на смърт!“</i><br /><br />Е, и Мао си отиде, и поредните промени дойдоха на село. Знаем какво е Китай сега – отново не само това, което се вижда като външен блясък и пример. И езикът/преводът първо е селски, едновремешен (на места прекалено), а постепенно става по-градски и малко по-съвременен. Любопитна съм да чета още от <i>„оня хубостник“</i> Мо Йен;).<br /><br /><i>„След като умра, няма да ме туряте в ковчег, не искам и оркестър да свири, няма нужда да пращате известия за смъртта ми на роднини, близки и приятели, ще намериш рогозка, ще ме увиете в нея, ще ме заровите и толкоз. Зърното в делвите ще изсипете докрай в гроба ми, нека покрие тялото и лицето ми, то е поникнало и расло в моята земя, затуй трябва да се върне пак в моята земя. Като умра, никой да не плаче, няма за какво да се плаче.“</i>",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/7907888?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/1520698956",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 7,
+                        "viewerHasLiked": false,
+                        "commentCount": 1
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.UZBJB7HCvhaCeHe-R2bMFw",
+                        "creator": {
+                            "id": 1097970,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1208647884i/1097970.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 75,
+                            "__typename": "User",
+                            "textReviewsCount": 61,
+                            "name": "Aaron",
+                            "webUrl": "https://www.goodreads.com/user/show/1097970-aaron",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.662336413336E12,
+                        "createdAt": 1.210031312E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.22020456E12,
+                        "text": "Up until the last third or so of this book, I was ready to call it my favorite fiction book I've read this year. It still gets there, but the lukewarm finish makes it a closer call.<br /><br />Still, this was a great book. <br /><br />I've read a few reviews calling it the Chinese <i>One Hundred Years of Solitude</i>, and that isn't a bad comparison - it's got the same emphasis on one small town and one REALLY big family, lovers being torn apart by revolution, technology, the disappointment and betrayal of parents by their children, and, most of all, the need to draw a very large map to keep track of all of the major and minor characters who come scurrying in and out with <b>extremely similar names</b>. I'm not nearly as much of a drunk as I was in the 100 Years days and I still had a fair amount of trouble keeping everyone straight.<br /><br />Basic plot goes like this: The narrator is a minor landowner who is killed in the very beginning of the Maoist purges and, through a series of tantrums, convinces the lord of the underworld to send him back to his previous life. Thing is, nasty underworld guy won't send him back as a human, so he goes back as a series of animals (donkey, ox, pig, dog, monkey) and starts each new phase literally staring back up the gloopy birth canal of his new animal mommy. <i>Life and Death</i> has a lot of <i>One Hundred Years</i> style \"magical realism\" nonsense, mostly pinned in the constant anthropomorphic lurches, but even for that, the elements of the supernatural aren't nearly as zany or aggressive as they were in Marquez. The reincarnation shtick is awesomely played - the narrator makes major stylistic changes to accommodate each animal and the animals are rarely boring - the donkey and pig chapters in particular are strong.<br /><br />The narrative backflips aren't without their own risk of exhaustion - in some chapters (particularly the generally less good \"dog chapter\" towards the end of the book), the narrator switches practically every other paragraph and the book becomes a somewhat more conventional romance, though by the end of the book, things have boiled down enough that all anyone seems to do is hump and/or die. <br /><br />A near perfect book until the end of the pig chapter, a very good one after that.",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/1097970?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "most-recommendable",
+                                        "webUrl": "https://www.goodreads.com/review/list/1097970?shelf=most-recommendable",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "favorites",
+                                        "webUrl": "https://www.goodreads.com/review/list/1097970?shelf=favorites",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/21664727",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 7,
+                        "viewerHasLiked": false,
+                        "commentCount": 1
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.-bVk-ILFgpD74b9gRc-Huw",
+                        "creator": {
+                            "id": 10833898,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1342303604i/10833898._UX200_CR0,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 0,
+                            "__typename": "User",
+                            "textReviewsCount": 2,
+                            "name": "Powell",
+                            "webUrl": "https://www.goodreads.com/user/show/10833898-powell",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.641071388939E12,
+                        "createdAt": 1.357273805E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.35727399E12,
+                        "text": "The descriptions of life in Communist China were really well done, but the development and pace if the story were way, way too slow. I really enjoyed the first part if the book where the main character, Ximen, was a donkey, and we saw the world through his eyes. His attempts at adapting to life as a donkey were funny and whimsical. After that, everything was told through other characters, and it didn't succeed in holding my interest. Also, the tangents the characters went on were distracting and stalled the pace of the story as well. Wonderfully descriptive, but frightfully slow. ",
+                        "rating": 2,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/10833898?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/494608230",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 7,
+                        "viewerHasLiked": false,
+                        "commentCount": 1
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.7RtkLZX5wWjrC6vv8siSiw",
+                        "creator": {
+                            "id": 46296321,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1659490648i/46296321._UX200_CR0,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 178,
+                            "__typename": "User",
+                            "textReviewsCount": 131,
+                            "name": "Nguyễn Quang Vũ",
+                            "webUrl": "https://www.goodreads.com/user/show/46296321-nguy-n-quang-v",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.507968248898E12,
+                        "createdAt": 1.455646087E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.48676410252E12,
+                        "text": "Quả thực mỗi lần chuẩn bị đọc một tác phẩm của Mạc Ngôn là mình lại như chuẩn bị đi ăn tiệc, một bữa tiệc với nhiều bạn bè thân thích và rượu thì tuyệt đối không ép. \"Sống đọa thác đày\" còn hơn cả một bữa tiệc như thế.<br /><br />Có quá nhiều câu chuyện xung quanh tác phẩm này của Mạc Ngôn. \"Sống đọa thác đày\" được Mạc Ngôn thai nghén trong 43 năm và được ông đặt bút viết liên tục trong vòng 43 ngày. Mạc Ngôn viết tác phẩm này bằng cách viết ra giấy, tức là hoàn toàn đoạn tuyệt với máy tính. Với một trường thiên tiểu thuyết hơn 800 trang thì sức viết của ông quả là đáng nể còn sức mạnh cơ tay thì ... miễn bàn. Quốc gia đầu tiên mà Mạc Ngôn ký chuyển giao bản quyền là Việt Nam vì theo ông <i>\"con đường mà đất nước Việt Nam đã trải qua rất giống với Trung Quốc\"</i>. Đây là mấy trivia hình như là có thật về tác phẩm này. Mình không bàn nhiều vì nghe có mùi gió.<br /><br />\"Sống đọa thác đày\" có tên tiếng Trung là \"Sinh tử bì lao\" là câu chuyện của nhân vật Lam-Ngàn-Năm-Đầu-To kể lại sau khi đã trải qua sáu kiếp luân hồi. Đầu tiên là từ Tây Môn Náo - <i>một địa chủ phong kiến cũ của Trung Quốc</i> - bị bắn nát óc trong cải cách ruộng đất, hồn xuống Địa Phủ nhưng nhất mực kêu oan vì quả thực mặc dù là địa chủ nhưng Tây Môn Náo không hại ai bao giờ. Diêm Vương cho rằng Tây Môn Náo còn nhiều oán nghiệp trên trần gian nên bắt ông đầu thai thành kiếp lừa, kiếp trâu, kiếp lợn, kiếp chó, kiếp khỉ rồi cuối cùng mới trở lại làm Lam-Ngàn-Năm-Đầu-To. Quả thực thật khó tưởng tượng một câu chuyện mang đậm triết lý luân hồi Phật Giáo như vậy lại là con đẻ của một nhà văn gần như vô thần và không nghiên cứu gì về Phật Giáo như Mạc Ngôn. Tác phẩm cũng khái quát cả một giai đoạn lịch sử 50 năm ở vùng nông thôn Trung Quốc từ năm 1950-2000. Có nhiều người cho rằng Mạc Ngôn đã rất khôn ngoan trong cách miêu tả lại những sai lầm khủng khiếp của Trung Quốc trong thời kỳ cải cách ruộng đất và cách mạng văn hóa. Và nhờ vậy, ông đã \"lách\" được những cặp mặt soi mói của chính quyền. Theo mình thì không đúng. Nhà văn mà khôn ngoan thì có thể trở thành Chủ Tịch Hội Nhà Văn chứ không dành giải Nobel được. Giải Nobel chỉ tôn vinh giá trị văn hóa đích thực mà thôi.<br /><br />Hết tiệc rồi, chán quá. Đi ngủ thôi.",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/46296321?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "tiểu-thuyết",
+                                        "webUrl": "https://www.goodreads.com/review/list/46296321?shelf=ti%E1%BB%83u-thuy%E1%BA%BFt",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "nước-ngoài",
+                                        "webUrl": "https://www.goodreads.com/review/list/46296321?shelf=n%C6%B0%E1%BB%9Bc-ngo%C3%A0i",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "nobel",
+                                        "webUrl": "https://www.goodreads.com/review/list/46296321?shelf=nobel",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                },
+                                {
+                                    "tag": {
+                                        "name": "ưa-thích-2016",
+                                        "webUrl": "https://www.goodreads.com/review/list/46296321?shelf=%C6%B0a-th%C3%ADch-2016",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/1550514486",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 6,
+                        "viewerHasLiked": false,
+                        "commentCount": 2
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.3MJTzneMCQziYZsDZv3PPA",
+                        "creator": {
+                            "id": 69568637,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1589235310i/69568637._UX200_CR0,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 30,
+                            "__typename": "User",
+                            "textReviewsCount": 100,
+                            "name": "Nehirin~",
+                            "webUrl": "https://www.goodreads.com/user/show/69568637-nehirin",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.594239946663E12,
+                        "createdAt": 1.528011052964E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.528011707928E12,
+                        "text": "Mo Yan... İlk defa okudum. İyi ki okudum, yine okuyacağım. Önce dilimize çevrilmiş tüm kitaplarını okuyacağım, sonra İngilizce olan tüm kitaplarını okuyacağım.<br /><br />Yoğunluğum sebebiyle genelde geceleri okudum ama gün içinde aklımdaydı hep. Ximen köyü, Ximen Nao ve 43 günde 50 keçeli kalemle 430 bin kelimeyle Mo Yan tarafından kaleme alınan bu muhteşem hikâyede ona eşlik eden tüm karakterler ve hikâyenin o insanı alıp götüren muhteşem kurgusunu anlatmakta kelimeler yetersiz kalır.<br />O yüzden okuyun diyebilir yalnızca, pişman olmayacaksınız. \"Yaşam ve Ölüm Yorgunu\" nasıl olunur anlayacaksınız.<br /><br />\"Bu dünyada kalpleri kinle dolu o kadar insan var ki,\" dedi Efendi Yama üzgün bir ses tonuyla \"kalpleri kinle dolu ruhların yeniden insan olarak doğmalarını istemiyoruz o yüzden; ama kimi ağdan kaçıveriyor işte.\"",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/69568637?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/2373743669",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 6,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.s-jCqmjqVbGCF5Ieui3FLg",
+                        "creator": {
+                            "id": 255516,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1186363373i/255516.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 135,
+                            "__typename": "User",
+                            "textReviewsCount": 492,
+                            "name": "Alicia",
+                            "webUrl": "https://www.goodreads.com/user/show/255516-alicia",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.581153368763E12,
+                        "createdAt": 1.227631627E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.229447928E12,
+                        "text": "Alternating between funny and horrifying, this satire sends executed landowner Ximen Nao through the second half of 20th century China in a variety of reincarnated forms, starting as a donkey and finally ending as a child. In each form, he witnesses the results of the Land Reform Movement and Great Leap Forward into present day China. In spite of the light tone, this is a profoundly disturbing and enlightening look at the impact each change had on the Chinese people.",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/255516?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/38616634",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 6,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.RxgVv5UpB95H6-koPwxRRg",
+                        "creator": {
+                            "id": 48619044,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1446839785i/48619044._UY200_CR22,0,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 148,
+                            "__typename": "User",
+                            "textReviewsCount": 919,
+                            "name": "Knigoqdec",
+                            "webUrl": "https://www.goodreads.com/user/show/48619044-knigoqdec",
+                            "contributor": null
+                        },
+                        "recommendFor": null,
+                        "updatedAt": 1.581605285939E12,
+                        "createdAt": 1.581532372884E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.581532458063E12,
+                        "text": "Много пълнокръвна, хареса ми Магарето и отчасти Бика, но не я откривам в подходящия момент.",
+                        "rating": 3,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/48619044?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [],
+                            "webUrl": "https://www.goodreads.com/review/show/3184622008",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 5,
+                        "viewerHasLiked": false,
+                        "commentCount": 0
+                    },
+                    "__typename": "BookReviewsEdge"
+                },
+                {
+                    "node": {
+                        "__typename": "Review",
+                        "id": "kca://review:goodreads/amzn1.gr.review:goodreads.v1.-6j0R8D31D3eRGrYDLvqDQ",
+                        "creator": {
+                            "id": 9479701,
+                            "imageUrlSquare": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1675786622i/9479701._UX200_CR0,24,200,200_.jpg",
+                            "isAuthor": false,
+                            "viewerRelationshipStatus": {
+                                "isFollowing": false,
+                                "isFriend": false,
+                                "__typename": "ViewerRelationshipStatus",
+                                "isBlockedByViewer": false
+                            },
+                            "followersCount": 43,
+                            "__typename": "User",
+                            "textReviewsCount": 222,
+                            "name": "Joseph",
+                            "webUrl": "https://www.goodreads.com/user/show/9479701-joseph",
+                            "contributor": null
+                        },
+                        "recommendFor": "China aficionados, farmers, budhists,",
+                        "updatedAt": 1.636610438532E12,
+                        "createdAt": 1.349972029E12,
+                        "spoilerStatus": false,
+                        "lastRevisionAt": 1.620242034638E12,
+                        "text": "A remarkable take down of communist officialdom at local level from 1950 to 2000 and a take down of Buddhism while playing with the great Chinese epic \"Journey to the West\" AND a total mockery of writers who fixate on sex to flog their work ... ahhh, can you say Philip Roth?<br /><br />This passage so reminds me of bargaining in China, Korea, Philippines, Vietnam, Thailand and even Poland ... incredible writing: \"... that coat fits you like a Mongolian tailor made it just for you. One inch more and it's too long, one inch less and it's too short. So, what do you think, hot enough for you? It's not? Touch your forehead, you're sweating, and you say it's not hot? Eight yuan? If not for the neighborhood connection, I wouldn't sell it for fifteen. You won't go higher than eight? Old Uncle, what can I say? Last autumn, I smoked a couple of your pipes, so I owe you for that. A man can't rest till he pays off a debt. All right, then, nine yuan and it's yours. Take it home with you. You won't want to catch cold. Eight you say? How about eight-fifty? I'll lower it a bit and you raise it a bit. After all, you're a generation older than me. If it was anybody else I'd smack him in the ear so hard he'd roll all the way down to the river. Eight yuan, it's like I'm giving you a transfusion of my own blood ...\"<br /><br />Just finished book two of that incredible book. Ximan Ox is now dead, dispatched in a very brutal way by young \"Red Guards\" during the Cultural Revolution. The Cultural Revolution unleashed by Mao was a horrible, horrible event which dragged on for ten years (roughly 1966-1976). Estimates of how many died in what was in many ways a civil war of young against old to restore/preserve Mao's power vary widely from one million to 40 million. My guess would be somewhere around ten million. Beyond that the suffering of the Chinese people was immeasurable. A generation was essentially lost. The death of the ox gives us insight into how bad it was. It's little surprise that the Chinese oligarchy is moving quickly to condemn Yo Man and to censor his books. (see link) Yo Man is a dissident in the finest literary sense. If I were teaching a modern China course his book would be mandatory reading. <br /><br />The Chinese oligarchy is not happy with Yo Man <a target=\"_blank\" rel=\"noopener nofollow\" href=\"http://www.salon.com/2012/10/16/china_scrambles_to_censor_discussion_of_mo_yan/\">http://www.salon.com/2012/10/16/china...</a> <br /><br />Was a little depressed at the end of Book 2 of Mo Yan's incredible \"Life and Death Are wearing Me Out.\" The righteous Ox suffered a horrible death. So, set it aside for a day. Now, back in it and Ximen Nao's third reincarnation is as a pig. A pig you say? Yes, a pig. At first I thought meh, disappointing. That thought came too soon. This pig wants to be King Pig and he's on his way. I mean it might take a small leap of imagination to accept a pig that can jump into an Apricot tree and sit in a branch, but this pig can. It's still Cultural Revolution time and the Red Guards and old party cadres are in search of accolades as a model pig farm. Ximen Pig and these people are a match that could only have been conceived by Yo Man or maybe Lord Yama. I'm soo back in it. Oh, heard a literary comment on BBC about another book that applies (may not have gotten it exactly, but am close) ...\"This is a book that lets you go right there in it IF you allow yourself to do that.\" I'm soo right there.",
+                        "rating": 5,
+                        "shelving": {
+                            "shelf": {
+                                "name": "read",
+                                "webUrl": "https://www.goodreads.com/review/list/9479701?shelf=read",
+                                "__typename": "Shelf"
+                            },
+                            "taggings": [
+                                {
+                                    "tag": {
+                                        "name": "asian-literature",
+                                        "webUrl": "https://www.goodreads.com/review/list/9479701?shelf=asian-literature",
+                                        "__typename": "Tag"
+                                    },
+                                    "__typename": "Tagging"
+                                }
+                            ],
+                            "webUrl": "https://www.goodreads.com/review/show/432111302",
+                            "__typename": "Shelving"
+                        },
+                        "likeCount": 5,
+                        "viewerHasLiked": false,
+                        "commentCount": 1
+                    },
+                    "__typename": "BookReviewsEdge"
+                }
+            ],
+            "pageInfo": {
+                "prevPageToken": "MjMyMSwxNTIyNjk3MDAzOTcy",
+                "nextPageToken": "NTMzLDEzNDk5NzIwMjkwMDA",
+                "__typename": "PageInfo"
+            },
+            "__typename": "BookReviewsConnection"
+        }
+    }
+}
