@@ -8,7 +8,7 @@ logger.success("当前版本为0.1 beta测试版")
 logger.success("如有问题可以来https://github.com/bingqiu456/shouyun 来反馈")
 logger.warning("正在检查更新，请勿退出")
 
-a = httpx.get(url="https://cdn.bingyue.top/shouyun/1.json").json()
+a = httpx.get(url="http://cdn.bingyue.top/shouyun/1.json").json()
 if a["ver"] == verison:
     logger.success("暂无新版本更新")
 else:
