@@ -1,8 +1,8 @@
 {
-    "ver":"0.1",
-    "log":"2023-04-15更新新增\n1.账号登录\n2.账号注册\n3.获取验证码\n4.获取登录令牌\n5.修改登录令牌",
+    "ver":"0.2",
+    "log":"2023-04-16更新新增\n1.上传头像\n2.获取头像\n3.随机图片",
     "qq":"35***19417",
-    "files":["accot.py","config.py","image_check.py","login_token.py","login.py","menu.py","yiyan.py","trun_on.py"],
+    "files":["accot.py","config.py","image_check.py","login_token.py","login.py","menu.py","yiyan.py","trun_on.py","image_random.py","logo_acct.py"],
     "db":["config.db","login.db"],
     "url":"https://cdn.bingyue.top/shouyun/files/"
 }
