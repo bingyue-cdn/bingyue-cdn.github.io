@@ -6,7 +6,7 @@ mirr = "cdn.bingyue.top" # 更新源
 # 另外的更新源 blog.bingyue.top
 
 logger.success("兽云nonebot2 插件启动成功")
-logger.success("当前版本为0.1 beta测试版")
+logger.success(f"当前版本为{verison} beta测试版")
 logger.success("如有问题可以来https://github.com/bingqiu456/shouyun 来反馈")
 logger.warning("正在检查更新，请勿退出")
 
