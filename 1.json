@@ -1,0 +1,8 @@
+{
+    "ver":"0.4",
+    "log":"2023-04-29\n1.本次更新新增admin.py 请把账号密码填写到admin.py\n2.新增半成品群开关\n3.新增修改心跳包功能\n4.修复版本号bug",
+    "qq":"35***19417",
+    "files":["accot.py","config.py","image_check.py","login_token.py","login.py","menu.py","yiyan.py","trun_on.py","image_random.py","logo_acct.py","xint.py","image_download.py","admin.py","group_1.py"],
+    "db":["config.db","login.db","group_tf.db"],
+    "url":"https://cdn.bingyue.top/shouyun/files/"
+}
